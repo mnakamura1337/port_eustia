@@ -1,0 +1,7 @@
+#!/bin/sh
+
+for I in extracted.d/data02*.arc; do
+	FN=$(basename "$I")
+#	rm -f "extracted.s/$FN/$FN"
+	ln -sf "../extracted.d/$FN" "extracted.s/$FN"
+done

@@ -1,0 +1,80 @@
+girl:
+  name:
+    ja: 少女
+    en: Girl
+ym:
+  name:
+    ja: 若い男
+    en: Young man
+caim:
+  # Caim Astraea カイム・アストレア (protagonist)
+  name:
+    ja: カイム
+    en: Caim
+c3:
+  name:
+    ja: オズ
+c4:
+  name:
+    ja: 坊主の男
+eris:
+  # Eris Floralia エリス・フローラリア  
+  name:
+    ja: エリス
+    en: Eris
+c5:
+  name:
+    ja: 不蝕金鎖の男
+c6:
+  name:
+    ja: 神官
+c7:
+  name:
+    ja: 聖女
+c8:
+  name:
+    ja: 女性の声
+c9:
+  name:
+    ja: 派手な女見物客
+c10:
+  name:
+    ja: 中年の見物客
+c11:
+  name:
+    ja: 柄の悪い見物客
+c12:
+  name:
+    ja: ゴツい見物客
+c13:
+  name:
+    ja: 付き人
+c14:
+  name:
+    ja: 男
+luc:
+  # Lucius dis Mireille ルキウス・ディス・ミレイユ
+  name:
+    ja: ルキウス
+    en: Lucius
+c16:
+  name:
+    ja: 羽つきの少年
+c17:
+  name:
+    ja: 羽狩りのリーダー
+c18:
+  name:
+    ja: 赤毛の羽狩り
+c19:
+  name:
+    ja: 羽狩りの副隊長
+unk1:
+  name:
+    ja: ？？
+c20:
+  name:
+    ja: 羽狩りの隊長
+c21:
+  name:
+    ja: ラング副隊長

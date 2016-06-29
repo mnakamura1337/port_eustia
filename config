@@ -1,0 +1,6 @@
+# Paths
+
+# Tools
+ENGINE_DIR=../../engines/engine_bgi
+BGI2STORY="$ENGINE_DIR/bytecode/bgi2story"
+EXTRACT_OGGS="$ENGINE_DIR/containers/extract_oggs"

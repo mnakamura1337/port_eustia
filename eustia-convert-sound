@@ -1,0 +1,13 @@
+#!/bin/sh -e
+
+. ./config
+
+"$EXTRACT_OGGS" extracted.d/data03000.arc extracted.s/fx
+
+for I in extracted.d/data04*.arc; do
+	"$EXTRACT_OGGS" "$I" extracted.s/voice
+done
+
+for I in extracted.d/data05*.arc; do
+	"$EXTRACT_OGGS" "$I" extracted.s/music
+done

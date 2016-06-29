@@ -1,0 +1,11 @@
+#!/bin/sh -f
+
+. ./config
+
+"$BGI2STORY" \
+	meta.yaml \
+	characters.yaml \
+	ja \
+	extracted.d \
+	extracted.d/data01000.arc/aiy00010 \
+	eustia.story
